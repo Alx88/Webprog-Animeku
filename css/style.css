@@ -1,0 +1,47 @@
+.content{
+	width:100%;
+	padding: 20px;
+	margin:0px;
+	margin-top: 30px;
+}
+
+.login{
+	height:40px;
+	font-weight: bold;
+}
+
+body{
+	background: #f2f2f2;
+}
+
+.contact-form{
+	background: white;
+	border-radius:10px;
+	margin-left: 40px;
+	padding-top:10px;
+	padding-bottom: 10px;
+	width:60%;
+}
+
+.form-style{
+	background: white;
+	border-radius:10px;
+	padding-bottom:10px;
+	padding-top:5px;
+	box-shadow: 0 4px 8px rgba(0,0,0,0.4);
+}
+.navbar{
+	border-radius:0px;
+	background-color: #5191f7 !important;
+	border-width: 0px;
+}
+.navbar a{
+	color: white !important;
+}
+
+.container{
+	margin-top:20px !important;
+	margin-bottom:20px !important;
+	padding:10px;
+	background-color: white;
+}
